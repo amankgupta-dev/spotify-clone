@@ -2649,3 +2649,17 @@ hr{
 
     cursor: pointer;
 }
+
+.student{
+    font-size: 0.89rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: -18.5rem;
+    color: #16B8CE;
+    padding: 0.5rem;
+    border-radius:10px ;
+    font-weight: 650;
+    cursor: pointer;
+}
