@@ -54,7 +54,7 @@ Spotify-Clone/
     ├── amaal.jpeg
     ├── darshan.jpeg
     └── ...
-
+```
 
 ## 📸 Project Preview
 
