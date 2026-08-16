@@ -100,9 +100,7 @@ The current version focuses on the front-end UI and visual design.
 
 ## 🌐 Live Demo
 
-**Coming soon...**
-
-<!-- After publishing with GitHub Pages, replace "Coming soon..." with your live website link. -->
+[🚀 View Live Demo](https://amankgupta-dev.github.io/spotify-clone/)
 
 ## 👨‍💻 Author
 
